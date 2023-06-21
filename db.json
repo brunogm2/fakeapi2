@@ -12,7 +12,8 @@
         {"id":10,"name":"Julie","user":"jbernat9","email":"jcommusso9@aboutads.info"},
     ],
     "detail-notification": [
-        {   "id": 1
+        {   
+            "id": 1,
             "tag_ativo": "AtivoTAG",
             "tag_escopo": "EscopoTAG",
             "sensor_tipo":[
