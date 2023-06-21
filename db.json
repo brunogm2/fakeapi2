@@ -34,6 +34,29 @@
             "texto_detalhamento_notificacao": "details notificacao",
             "subprocesso_supravizio": "subprocss supra",
             "codigo_alerta": "cod alerta"
+        },
+        {   
+            "id": 2,
+            "tag_ativo": "TAG",
+            "tag_escopo": "Escopo Teste",
+            "sensor_tipo":[
+                "Sensor tipo teste",
+                "Sensor tipo testando!"
+            ],
+            "sensor_nome":[
+                "Sensor nome",
+                "Teste de sensor!"
+            ],
+            "sensor_mensagem":[
+                "Menssagem de error sensor.",
+                "Problemas de erro sensor!"
+            ],
+            "area_notificacao": "Notificação de área",
+            "classificacao_supravizio": "1.0.0.2",
+            "assunto_notificacao": "Problema de notificação",
+            "texto_detalhamento_notificacao": "Notificação com problema de error!",
+            "subprocesso_supravizio": "Acessar e transmitir sub process supra.",
+            "codigo_alerta": "cod. 0029"
         }
     ]
 }
